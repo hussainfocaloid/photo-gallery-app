@@ -48,7 +48,7 @@ export default function HomePage() {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-lg font-medium mb-2">
-            Welcome to Our Platform. This is a modification.
+            Welcome to Our Platform. This is a modification 1.
           </h1>
           <div className="flex gap-4 text-sm text-muted-foreground mb-6">
             <Link href="/" className="underline">
